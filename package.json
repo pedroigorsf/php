@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "build": "niko build --output public"
+  }
+}
